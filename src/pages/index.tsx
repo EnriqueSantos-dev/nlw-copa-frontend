@@ -118,6 +118,7 @@ export const getStaticProps: GetStaticProps = async () => {
     getUsersCount(),
   ]);
 
+
   return {
     props: {
       poolsCount,
