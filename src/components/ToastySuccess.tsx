@@ -19,7 +19,7 @@ function ToastySuccess({ code }: Props) {
       <CheckIcon />
       <p className="text-gray-300 text-lg">
         O seu bolão foi criado com sucesso e o código abaixo foi copiado para
-        área de trasnferência
+        área de transferência
       </p>
 
       <strong className="text-2xl text-[#129E57]">{code}</strong>
